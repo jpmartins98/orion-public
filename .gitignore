@@ -82,3 +82,4 @@
 !/widgets/villageGroups.js
 !/widgets/coinMinting.js
 !/widgets/resourceBalancer.js
+!/orion.runtime.js
